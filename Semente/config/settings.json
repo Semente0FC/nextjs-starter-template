@@ -1,0 +1,11 @@
+{
+    "crosshair": {
+        "type": "Cross",
+        "color": "#7F00FF",
+        "thickness": 2,
+        "size": 20,
+        "opacity": 0.8
+    },
+    "hotkey": "F10",
+    "game_ready_mode": false
+}
